@@ -1,0 +1,2 @@
+# RPG-Game-2D-Zelda-Style
+RPG game with free tiles from a tutorial for practice how to create a video game. Includes animation, characters, player and enemies movements, C# scripts,collisions, physics, teletransport between different zone, atack with sword, lightning with sword, destroyable objects, enemys with raycast like a radar to detect player and follow to attack, enemy atacks, life of enemys.
